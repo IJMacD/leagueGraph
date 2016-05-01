@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,12 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="100%"
-   height="100%"
-   viewBox="0 0 1350 1250"
+   viewBox="0 0 1430 1250"
    id="graph">
   <metadata
-     id="metadata5866">
+     id="metadata4631">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,1305 +20,1367 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0.5,0.5)"
-     id="g5534">
-    <line
-       stroke="#000000"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="80"
-       x2="100"
-       y2="1120"
-       id="line5536"
-       style="stroke:#000000;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="140"
-       y1="80"
-       x2="140"
-       y2="1120"
-       id="line5538"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="180"
-       y1="80"
-       x2="180"
-       y2="1120"
-       id="line5540"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="220"
-       y1="80"
-       x2="220"
-       y2="1120"
-       id="line5542"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="260"
-       y1="80"
-       x2="260"
-       y2="1120"
-       id="line5544"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="300"
-       y1="80"
-       x2="300"
-       y2="1120"
-       id="line5546"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="340"
-       y1="80"
-       x2="340"
-       y2="1120"
-       id="line5548"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="380"
-       y1="80"
-       x2="380"
-       y2="1120"
-       id="line5550"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="420"
-       y1="80"
-       x2="420"
-       y2="1120"
-       id="line5552"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="460"
-       y1="80"
-       x2="460"
-       y2="1120"
-       id="line5554"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="500"
-       y1="80"
-       x2="500"
-       y2="1120"
-       id="line5556"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="540"
-       y1="80"
-       x2="540"
-       y2="1120"
-       id="line5558"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="580"
-       y1="80"
-       x2="580"
-       y2="1120"
-       id="line5560"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="620"
-       y1="80"
-       x2="620"
-       y2="1120"
-       id="line5562"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="660"
-       y1="80"
-       x2="660"
-       y2="1120"
-       id="line5564"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="700"
-       y1="80"
-       x2="700"
-       y2="1120"
-       id="line5566"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="740"
-       y1="80"
-       x2="740"
-       y2="1120"
-       id="line5568"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="780"
-       y1="80"
-       x2="780"
-       y2="1120"
-       id="line5570"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="820"
-       y1="80"
-       x2="820"
-       y2="1120"
-       id="line5572"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="860"
-       y1="80"
-       x2="860"
-       y2="1120"
-       id="line5574"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="900"
-       y1="80"
-       x2="900"
-       y2="1120"
-       id="line5576"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="940"
-       y1="80"
-       x2="940"
-       y2="1120"
-       id="line5578"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="980"
-       y1="80"
-       x2="980"
-       y2="1120"
-       id="line5580"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1020"
-       y1="80"
-       x2="1020"
-       y2="1120"
-       id="line5582"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1060"
-       y1="80"
-       x2="1060"
-       y2="1120"
-       id="line5584"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1100"
-       y1="80"
-       x2="1100"
-       y2="1120"
-       id="line5586"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1140"
-       y1="80"
-       x2="1140"
-       y2="1120"
-       id="line5588"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1180"
-       y1="80"
-       x2="1180"
-       y2="1120"
-       id="line5590"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1220"
-       y1="80"
-       x2="1220"
-       y2="1120"
-       id="line5592"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1260"
-       y1="80"
-       x2="1260"
-       y2="1120"
-       id="line5594"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="1300"
-       y1="80"
-       x2="1300"
-       y2="1120"
-       id="line5596"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="80"
-       x2="1300"
-       y2="80"
-       id="line5598"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="120"
-       x2="1300"
-       y2="120"
-       id="line5600"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="160"
-       x2="1300"
-       y2="160"
-       id="line5602"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="200"
-       x2="1300"
-       y2="200"
-       id="line5604"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="240"
-       x2="1300"
-       y2="240"
-       id="line5606"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="280"
-       x2="1300"
-       y2="280"
-       id="line5608"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="320"
-       x2="1300"
-       y2="320"
-       id="line5610"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="360"
-       x2="1300"
-       y2="360"
-       id="line5612"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="400"
-       x2="1300"
-       y2="400"
-       id="line5614"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="440"
-       x2="1300"
-       y2="440"
-       id="line5616"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="480"
-       x2="1300"
-       y2="480"
-       id="line5618"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="520"
-       x2="1300"
-       y2="520"
-       id="line5620"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="560"
-       x2="1300"
-       y2="560"
-       id="line5622"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="600"
-       x2="1300"
-       y2="600"
-       id="line5624"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="640"
-       x2="1300"
-       y2="640"
-       id="line5626"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="680"
-       x2="1300"
-       y2="680"
-       id="line5628"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="720"
-       x2="1300"
-       y2="720"
-       id="line5630"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="760"
-       x2="1300"
-       y2="760"
-       id="line5632"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="800"
-       x2="1300"
-       y2="800"
-       id="line5634"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="840"
-       x2="1300"
-       y2="840"
-       id="line5636"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="880"
-       x2="1300"
-       y2="880"
-       id="line5638"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="920"
-       x2="1300"
-       y2="920"
-       id="line5640"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="960"
-       x2="1300"
-       y2="960"
-       id="line5642"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="1000"
-       x2="1300"
-       y2="1000"
-       id="line5644"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="1040"
-       x2="1300"
-       y2="1040"
-       id="line5646"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#808080"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="1080"
-       x2="1300"
-       y2="1080"
-       id="line5648"
-       style="stroke:#808080;stroke-width:1" />
-    <line
-       stroke="#000000"
-       stroke-width="1"
-       clip-path="url(#clipPath)"
-       x1="100"
-       y1="1120"
-       x2="1300"
-       y2="1120"
-       id="line5650"
-       style="stroke:#000000;stroke-width:1" />
-    <polyline
-       fill="none"
-       stroke="#FFFF00"
-       stroke-width="4"
-       clip-path="url(#clipPath)"
-       points="100,168 140,168 180,168 220,168 260,164 300,160 340,160 380,160 420,168 460,168 500,168 540,168 580,160 620,160 660,160 700,160 740,160 780,160 820,160 860,160 900,160 940,160 980,160 1020,160 1060,160 1100,160 1140,160 1180,160 1220,160 1260,160 1300,160"
-       id="polyline5652"
-       style="fill:none;stroke:#ffff00;stroke-width:4" />
-    <polyline
-       fill="none"
-       stroke="#FFFF00"
-       stroke-width="4"
-       clip-path="url(#clipPath)"
-       points="100,256 140,256 180,256 220,256 260,256 300,256 340,256 380,256 420,264 460,264 500,264 540,264 580,256 620,256 660,256 700,256 740,256 780,256 820,256 860,256 900,256 940,256 980,256 1020,256 1060,256 1100,256 1140,256 1180,256 1220,256 1260,256 1300,256"
-       id="polyline5654"
-       style="fill:none;stroke:#ffff00;stroke-width:4" />
-    <polyline
-       fill="none"
-       stroke="#FFFF00"
-       stroke-width="4"
-       clip-path="url(#clipPath)"
-       points="100,352 140,352 180,352 220,352 260,352 300,352 340,352 380,352 420,360 460,360 500,360 540,360 580,352 620,352 660,352 700,352 740,352 780,352 820,352 860,352 900,352 940,352 980,352 1020,352 1060,352 1100,352 1140,352 1180,352 1220,352 1260,352 1300,352"
-       id="polyline5656"
-       style="fill:none;stroke:#ffff00;stroke-width:4" />
-    <polyline
-       fill="none"
-       stroke="#FFFF00"
-       stroke-width="4"
-       clip-path="url(#clipPath)"
-       points="100,448 140,448 180,448 220,448 260,448 300,448 340,448 380,448 420,452 460,448 500,448 540,448 580,440 620,448 660,448 700,448 740,448 780,448 820,448 860,448 900,448 940,448 980,448 1020,448 1060,448 1100,448 1140,448 1180,448 1220,448 1260,448 1300,448"
-       id="polyline5658"
-       style="fill:none;stroke:#ffff00;stroke-width:4" />
-    <polyline
-       fill="none"
-       stroke="#FFFF00"
-       stroke-width="4"
-       clip-path="url(#clipPath)"
-       points="100,536 140,536 180,536 220,536 260,536 300,536 340,536 380,536 420,540 460,536 500,536 540,536 580,528 620,536 660,536 700,536 740,536 780,536 820,536 860,536 900,536 940,536 980,536 1020,544 1060,544 1100,544 1140,544 1180,544 1220,544 1260,544 1300,544"
-       id="polyline5660"
-       style="fill:none;stroke:#ffff00;stroke-width:4" />
-    <polyline
-       fill="none"
-       stroke="#FFFF00"
-       stroke-width="4"
-       clip-path="url(#clipPath)"
-       points="100,704 140,792 180,792 220,800 260,800 300,800 340,800 380,800 420,804 460,800 500,800 540,800 580,792 620,800 660,800 700,800 740,804 780,804 820,804 860,812 900,812 940,712 980,712 1020,720 1060,720 1100,720 1140,720 1180,720 1220,720 1260,720 1300,720"
-       id="polyline5662"
-       style="fill:none;stroke:#ffff00;stroke-width:4" />
-    <polyline
-       fill="none"
-       stroke="#FFFF00"
-       stroke-width="4"
-       clip-path="url(#clipPath)"
-       points="100,952 140,1108 180,1128 220,1120 260,1172 300,1152 340,1152 380,1152 420,1156 460,1148 500,1148 540,1148 580,1140 620,1152 660,1152 700,1152 740,1156 780,1156 820,1156 860,1268 900,1268 940,976 980,976 1020,984 1060,980 1100,984 1140,984 1180,984 1220,984 1260,984 1300,984"
-       id="polyline5664"
-       style="fill:none;stroke:#ffff00;stroke-width:4" />
-    <polyline
-       fill="none"
-       stroke="#8000FF"
-       stroke-width="6"
-       stroke-linecap="square"
-       clip-path="url(#clipPath)"
-       points="100,852 140,1084 180,844 220,868 260,804 300,600 340,540 380,576 420,556 460,540 500,480 540,512 580,520 620,516 660,500 700,492 740,472 780,508 820,536 860,564 900,756 940,956 980,1044 1020,1028 1060,984 1100,724 1140,556 1180,596 1220,596 1260,564 1300,580"
-       id="polyline5666"
-       style="fill:none;stroke:#8000ff;stroke-width:6;stroke-linecap:square" />
-    <circle
-       cx="100"
-       cy="852"
-       r="10"
-       id="circle5668"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="140"
-       cy="1084"
-       r="10"
-       id="circle5670"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="180"
-       cy="844"
-       r="10"
-       id="circle5672"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="220"
-       cy="868"
-       r="10"
-       id="circle5674"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="260"
-       cy="804"
-       r="10"
-       id="circle5676"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="300"
-       cy="600"
-       r="10"
-       id="circle5678"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="340"
-       cy="540"
-       r="10"
-       id="circle5680"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="380"
-       cy="576"
-       r="10"
-       id="circle5682"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="420"
-       cy="556"
-       r="10"
-       id="circle5684"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="460"
-       cy="540"
-       r="10"
-       id="circle5686"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="500"
-       cy="480"
-       r="10"
-       id="circle5688"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="540"
-       cy="512"
-       r="10"
-       id="circle5690"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="580"
-       cy="520"
-       r="10"
-       id="circle5692"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="620"
-       cy="516"
-       r="10"
-       id="circle5694"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="660"
-       cy="500"
-       r="10"
-       id="circle5696"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="700"
-       cy="492"
-       r="10"
-       id="circle5698"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="740"
-       cy="472"
-       r="10"
-       id="circle5700"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="780"
-       cy="508"
-       r="10"
-       id="circle5702"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="820"
-       cy="536"
-       r="10"
-       id="circle5704"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="860"
-       cy="564"
-       r="10"
-       id="circle5706"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="900"
-       cy="756"
-       r="10"
-       id="circle5708"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="940"
-       cy="956"
-       r="10"
-       id="circle5710"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="980"
-       cy="1044"
-       r="10"
-       id="circle5712"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1020"
-       cy="1028"
-       r="10"
-       id="circle5714"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1060"
-       cy="984"
-       r="10"
-       id="circle5716"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1100"
-       cy="724"
-       r="10"
-       id="circle5718"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1140"
-       cy="556"
-       r="10"
-       id="circle5720"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1180"
-       cy="596"
-       r="10"
-       id="circle5722"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1220"
-       cy="596"
-       r="10"
-       id="circle5724"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1260"
-       cy="564"
-       r="10"
-       id="circle5726"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <circle
-       cx="1300"
-       cy="580"
-       r="10"
-       id="circle5728"
-       style="opacity:0;fill:#a060ff;stroke:#ff0080;stroke-width:4" />
-    <text
-       x="58"
-       y="170"
-       clip-path="url(#yAxisClipPath)"
-       id="text5730"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">20</text>
-    <text
-       x="58"
-       y="250"
-       clip-path="url(#yAxisClipPath)"
-       id="text5732"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">40</text>
-    <text
-       x="58"
-       y="330"
-       clip-path="url(#yAxisClipPath)"
-       id="text5734"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">60</text>
-    <text
-       x="58"
-       y="410"
-       clip-path="url(#yAxisClipPath)"
-       id="text5736"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">80</text>
-    <text
-       x="43"
-       y="490"
-       clip-path="url(#yAxisClipPath)"
-       id="text5738"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">100</text>
-    <text
-       x="43"
-       y="570"
-       clip-path="url(#yAxisClipPath)"
-       id="text5740"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">120</text>
-    <text
-       x="43"
-       y="650"
-       clip-path="url(#yAxisClipPath)"
-       id="text5742"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">140</text>
-    <text
-       x="43"
-       y="730"
-       clip-path="url(#yAxisClipPath)"
-       id="text5744"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">160</text>
-    <text
-       x="43"
-       y="810"
-       clip-path="url(#yAxisClipPath)"
-       id="text5746"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">180</text>
-    <text
-       x="43"
-       y="890"
-       clip-path="url(#yAxisClipPath)"
-       id="text5748"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">200</text>
-    <text
-       x="43"
-       y="970"
-       clip-path="url(#yAxisClipPath)"
-       id="text5750"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">220</text>
-    <text
-       x="43"
-       y="1050"
-       clip-path="url(#yAxisClipPath)"
-       id="text5752"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">240</text>
-    <text
-       x="43"
-       y="1130"
-       clip-path="url(#yAxisClipPath)"
-       id="text5754"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">260</text>
-    <text
-       x="-1240"
-       y="105"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5756"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1983-84</text>
-    <text
-       x="-1240"
-       y="145"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5758"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1984-85</text>
-    <text
-       x="-1240"
-       y="185"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5760"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1985-86</text>
-    <text
-       x="-1240"
-       y="225"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5762"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1986-87</text>
-    <text
-       x="-1240"
-       y="265"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5764"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1987-88</text>
-    <text
-       x="-1240"
-       y="305"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5766"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1988-89</text>
-    <text
-       x="-1240"
-       y="345"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5768"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1989-90</text>
-    <text
-       x="-1240"
-       y="385"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5770"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1990-91</text>
-    <text
-       x="-1240"
-       y="425"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5772"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1991-92</text>
-    <text
-       x="-1240"
-       y="465"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5774"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1992-93</text>
-    <text
-       x="-1240"
-       y="505"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5776"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1993-94</text>
-    <text
-       x="-1240"
-       y="545"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5778"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1994-95</text>
-    <text
-       x="-1240"
-       y="585"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5780"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1995-96</text>
-    <text
-       x="-1240"
-       y="625"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5782"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1996-97</text>
-    <text
-       x="-1240"
-       y="665"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5784"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1997-98</text>
-    <text
-       x="-1240"
-       y="705"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5786"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1998-99</text>
-    <text
-       x="-1240"
-       y="745"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5788"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">1999-00</text>
-    <text
-       x="-1240"
-       y="785"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5790"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2000-01</text>
-    <text
-       x="-1240"
-       y="825"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5792"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2001-02</text>
-    <text
-       x="-1240"
-       y="865"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5794"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2002-03</text>
-    <text
-       x="-1240"
-       y="905"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5796"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2003-04</text>
-    <text
-       x="-1240"
-       y="945"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5798"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2004-05</text>
-    <text
-       x="-1240"
-       y="985"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5800"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2005-06</text>
-    <text
-       x="-1240"
-       y="1025"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5802"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2006-07</text>
-    <text
-       x="-1240"
-       y="1065"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5804"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2007-08</text>
-    <text
-       x="-1240"
-       y="1105"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5806"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2008-09</text>
-    <text
-       x="-1240"
-       y="1145"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5808"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2009-10</text>
-    <text
-       x="-1240"
-       y="1185"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5810"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2010-11</text>
-    <text
-       x="-1240"
-       y="1225"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5812"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2011-12</text>
-    <text
-       x="-1240"
-       y="1265"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5814"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2012-13</text>
-    <text
-       x="-1240"
-       y="1305"
-       transform="matrix(0,-1,1,0,0,0)"
-       clip-path="url(#xAxisClipPath)"
-       id="text5816"
-       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">2013-14</text>
-    <text
-       x="250.5"
-       y="58"
-       id="text5818"
-       style="font-size:48px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">Dover Athletic Overall League Positions</text>
-    <g
-       transform="translate(82.999389,89.90678)"
-       id="g5027">
-      <text
-         x="697.1156"
-         y="50.279854"
-         id="text5791"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="697.1156"
-           y="50.279854"
-           id="tspan5793">Premier League</tspan></text>
-      <text
-         x="81.801712"
-         y="57.334648"
-         id="text5795"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="81.801712"
-           y="57.334648"
-           id="tspan5797">First Division</tspan></text>
-      <text
-         x="81.801712"
-         y="144.34377"
-         id="text5799"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="81.801712"
-           y="144.34377"
-           id="tspan5801">Second Division</tspan></text>
-      <text
-         x="81.801712"
-         y="247.81407"
-         id="text5803"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="81.801712"
-           y="247.81407"
-           id="tspan5805">Third Division</tspan></text>
-      <text
-         x="81.801712"
-         y="334.82318"
-         id="text5807"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="81.801712"
-           y="334.82318"
-           id="tspan5809">Fourth Division</tspan></text>
-      <text
-         x="83.348587"
-         y="426.53549"
-         id="text5811"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="83.348587"
-           y="426.53549"
-           id="tspan5813">Conference</tspan></text>
-      <text
-         x="698.4281"
-         y="139.64056"
-         id="text5815"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="698.4281"
-           y="139.64056"
-           id="tspan5817">Championship</tspan></text>
-      <text
-         x="697.3031"
-         y="238.40767"
-         id="text5819"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="697.3031"
-           y="238.40767"
-           id="tspan5821">League One</tspan></text>
-      <text
-         x="697.3031"
-         y="334.82318"
-         id="text5823"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="697.3031"
-           y="334.82318"
-           id="tspan5825">League Two</tspan></text>
-      <text
-         x="402.44489"
-         y="584.6842"
-         id="text6181"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="402.44489"
-           y="584.6842"
-           id="tspan6183">[Level 6]</tspan></text>
-      <text
-         x="389.84897"
-         y="891.18451"
-         id="text6185"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="389.84897"
-           y="891.18451"
-           id="tspan6187">[Level 7]</tspan></text>
-      <text
-         x="944.06885"
-         y="993.35132"
-         id="text6189"
-         xml:space="preserve"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
-           x="944.06885"
-           y="993.35132"
-           id="tspan6191">[Level 8]</tspan></text>
-    </g>
-    <g
-       transform="translate(10000,10000)"
-       id="g5845"
-       style="opacity:0">
-      <rect
-         width="240"
-         height="70"
-         rx="15"
-         ry="15"
-         x="0"
-         y="0"
-         id="rect5847"
-         style="fill:#ffffff;stroke:#c0c0c0;stroke-width:4" />
-      <text
-         x="20"
-         y="30"
-         id="text5849"
-         style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">Season: 2013-14</text>
-      <text
-         x="20"
-         y="60"
-         id="text5851"
-         style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">Position: 125</text>
-    </g>
-  </g>
   <defs
-     id="defs5853">
+     id="defs4320">
     <clipPath
        id="clipPath">
       <rect
-         width="1200"
+         id="rect4323"
          height="1040"
-         x="100"
+         width="1280"
          y="80"
-         id="rect5856" />
+         x="100" />
     </clipPath>
     <clipPath
        id="yAxisClipPath">
       <rect
-         width="100"
+         id="rect4326"
          height="1050"
-         x="0"
+         width="100"
          y="80"
-         id="rect5859" />
+         x="0" />
     </clipPath>
     <clipPath
        id="xAxisClipPath">
       <rect
+         id="rect4329"
+         height="1320"
          width="130"
-         height="1240"
-         x="-1240"
          y="65"
-         id="rect5862" />
+         x="-1240" />
     </clipPath>
   </defs>
+  <g
+     id="g5027"
+     transform="translate(91.108149,73.221686)">
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5791"
+       y="60.279854"
+       x="925.1156"><tspan
+         id="tspan5793"
+         y="60.279854"
+         x="925.1156">Premier League</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5795"
+       y="65.334648"
+       x="43.801712"><tspan
+         id="tspan5797"
+         y="65.334648"
+         x="43.801712">First Division</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5799"
+       y="152.34377"
+       x="45.582962"><tspan
+         id="tspan5801"
+         y="152.34377"
+         x="45.582962">Second Division</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5803"
+       y="255.81407"
+       x="46.614212"><tspan
+         id="tspan5805"
+         y="255.81407"
+         x="46.614212">Third Division</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5807"
+       y="342.82318"
+       x="43.801712"><tspan
+         id="tspan5809"
+         y="342.82318"
+         x="43.801712">Fourth Division</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5811"
+       y="434.53549"
+       x="45.348587"><tspan
+         id="tspan5813"
+         y="434.53549"
+         x="45.348587">Conference</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5815"
+       y="149.64056"
+       x="926.4281"><tspan
+         id="tspan5817"
+         y="149.64056"
+         x="926.4281">Championship</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5819"
+       y="246.40767"
+       x="925.3031"><tspan
+         id="tspan5821"
+         y="246.40767"
+         x="925.3031">League One</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5823"
+       y="340.82318"
+       x="925.3031"><tspan
+         id="tspan5825"
+         y="340.82318"
+         x="925.3031">League Two</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text6181"
+       y="584.6842"
+       x="402.44489"><tspan
+         id="tspan6183"
+         y="584.6842"
+         x="402.44489">[Level 6]</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text6185"
+       y="891.18451"
+       x="389.84897"><tspan
+         id="tspan6187"
+         y="891.18451"
+         x="389.84897">[Level 7]</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text6189"
+       y="993.35132"
+       x="944.06885"><tspan
+         id="tspan6191"
+         y="993.35132"
+         x="944.06885">[Level 8]</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text5811-1"
+       y="441.15897"
+       x="925.16248"><tspan
+         id="tspan5813-8"
+         y="441.15897"
+         x="925.16248">National League</tspan></text>
+  </g>
+  <g
+     id="g4331"
+     transform="translate(0.5,0.5)">
+    <line
+       id="line4333"
+       y2="1120"
+       x2="100"
+       y1="80"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#000000" />
+    <line
+       id="line4335"
+       y2="1120"
+       x2="140"
+       y1="80"
+       x1="140"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4337"
+       y2="1120"
+       x2="180"
+       y1="80"
+       x1="180"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4339"
+       y2="1120"
+       x2="220"
+       y1="80"
+       x1="220"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4341"
+       y2="1120"
+       x2="260"
+       y1="80"
+       x1="260"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4343"
+       y2="1120"
+       x2="300"
+       y1="80"
+       x1="300"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4345"
+       y2="1120"
+       x2="340"
+       y1="80"
+       x1="340"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4347"
+       y2="1120"
+       x2="380"
+       y1="80"
+       x1="380"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4349"
+       y2="1120"
+       x2="420"
+       y1="80"
+       x1="420"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4351"
+       y2="1120"
+       x2="460"
+       y1="80"
+       x1="460"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4353"
+       y2="1120"
+       x2="500"
+       y1="80"
+       x1="500"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4355"
+       y2="1120"
+       x2="540"
+       y1="80"
+       x1="540"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4357"
+       y2="1120"
+       x2="580"
+       y1="80"
+       x1="580"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4359"
+       y2="1120"
+       x2="620"
+       y1="80"
+       x1="620"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4361"
+       y2="1120"
+       x2="660"
+       y1="80"
+       x1="660"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4363"
+       y2="1120"
+       x2="700"
+       y1="80"
+       x1="700"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4365"
+       y2="1120"
+       x2="740"
+       y1="80"
+       x1="740"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4367"
+       y2="1120"
+       x2="780"
+       y1="80"
+       x1="780"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4369"
+       y2="1120"
+       x2="820"
+       y1="80"
+       x1="820"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4371"
+       y2="1120"
+       x2="860"
+       y1="80"
+       x1="860"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4373"
+       y2="1120"
+       x2="900"
+       y1="80"
+       x1="900"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4375"
+       y2="1120"
+       x2="940"
+       y1="80"
+       x1="940"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4377"
+       y2="1120"
+       x2="980"
+       y1="80"
+       x1="980"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4379"
+       y2="1120"
+       x2="1020"
+       y1="80"
+       x1="1020"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4381"
+       y2="1120"
+       x2="1060"
+       y1="80"
+       x1="1060"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4383"
+       y2="1120"
+       x2="1100"
+       y1="80"
+       x1="1100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4385"
+       y2="1120"
+       x2="1140"
+       y1="80"
+       x1="1140"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4387"
+       y2="1120"
+       x2="1180"
+       y1="80"
+       x1="1180"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4389"
+       y2="1120"
+       x2="1220"
+       y1="80"
+       x1="1220"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4391"
+       y2="1120"
+       x2="1260"
+       y1="80"
+       x1="1260"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4393"
+       y2="1120"
+       x2="1300"
+       y1="80"
+       x1="1300"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4395"
+       y2="1120"
+       x2="1340"
+       y1="80"
+       x1="1340"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4397"
+       y2="1120"
+       x2="1380"
+       y1="80"
+       x1="1380"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4399"
+       y2="80"
+       x2="1380"
+       y1="80"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4401"
+       y2="120"
+       x2="1380"
+       y1="120"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4403"
+       y2="160"
+       x2="1380"
+       y1="160"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4405"
+       y2="200"
+       x2="1380"
+       y1="200"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4407"
+       y2="240"
+       x2="1380"
+       y1="240"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4409"
+       y2="280"
+       x2="1380"
+       y1="280"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4411"
+       y2="320"
+       x2="1380"
+       y1="320"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4413"
+       y2="360"
+       x2="1380"
+       y1="360"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4415"
+       y2="400"
+       x2="1380"
+       y1="400"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4417"
+       y2="440"
+       x2="1380"
+       y1="440"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4419"
+       y2="480"
+       x2="1380"
+       y1="480"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4421"
+       y2="520"
+       x2="1380"
+       y1="520"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4423"
+       y2="560"
+       x2="1380"
+       y1="560"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4425"
+       y2="600"
+       x2="1380"
+       y1="600"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4427"
+       y2="640"
+       x2="1380"
+       y1="640"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4429"
+       y2="680"
+       x2="1380"
+       y1="680"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4431"
+       y2="720"
+       x2="1380"
+       y1="720"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4433"
+       y2="760"
+       x2="1380"
+       y1="760"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4435"
+       y2="800"
+       x2="1380"
+       y1="800"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4437"
+       y2="840"
+       x2="1380"
+       y1="840"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4439"
+       y2="880"
+       x2="1380"
+       y1="880"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4441"
+       y2="920"
+       x2="1380"
+       y1="920"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4443"
+       y2="960"
+       x2="1380"
+       y1="960"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4445"
+       y2="1000"
+       x2="1380"
+       y1="1000"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4447"
+       y2="1040"
+       x2="1380"
+       y1="1040"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4449"
+       y2="1080"
+       x2="1380"
+       y1="1080"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#808080" />
+    <line
+       id="line4451"
+       y2="1120"
+       x2="1380"
+       y1="1120"
+       x1="100"
+       clip-path="url(#clipPath)"
+       stroke-width="1"
+       stroke="#000000" />
+    <polyline
+       id="polyline4453"
+       points="100,168 140,168 180,168 220,168 260,164 300,160 340,160 380,160 420,168 460,168 500,168 540,168 580,160 620,160 660,160 700,160 740,160 780,160 820,160 860,160 900,160 940,160 980,160 1020,160 1060,160 1100,160 1140,160 1180,160 1220,160 1260,160 1300,160 1340,160 1380,160"
+       clip-path="url(#clipPath)"
+       stroke-width="4"
+       stroke="#FFFF00"
+       fill="none" />
+    <polyline
+       id="polyline4455"
+       points="100,256 140,256 180,256 220,256 260,256 300,256 340,256 380,256 420,264 460,264 500,264 540,264 580,256 620,256 660,256 700,256 740,256 780,256 820,256 860,256 900,256 940,256 980,256 1020,256 1060,256 1100,256 1140,256 1180,256 1220,256 1260,256 1300,256 1340,256 1380,256"
+       clip-path="url(#clipPath)"
+       stroke-width="4"
+       stroke="#FFFF00"
+       fill="none" />
+    <polyline
+       id="polyline4457"
+       points="100,352 140,352 180,352 220,352 260,352 300,352 340,352 380,352 420,360 460,360 500,360 540,360 580,352 620,352 660,352 700,352 740,352 780,352 820,352 860,352 900,352 940,352 980,352 1020,352 1060,352 1100,352 1140,352 1180,352 1220,352 1260,352 1300,352 1340,352 1380,352"
+       clip-path="url(#clipPath)"
+       stroke-width="4"
+       stroke="#FFFF00"
+       fill="none" />
+    <polyline
+       id="polyline4459"
+       points="100,448 140,448 180,448 220,448 260,448 300,448 340,448 380,448 420,452 460,448 500,448 540,448 580,440 620,448 660,448 700,448 740,448 780,448 820,448 860,448 900,448 940,448 980,448 1020,448 1060,448 1100,448 1140,448 1180,448 1220,448 1260,448 1300,448 1340,448 1380,448"
+       clip-path="url(#clipPath)"
+       stroke-width="4"
+       stroke="#FFFF00"
+       fill="none" />
+    <polyline
+       id="polyline4461"
+       points="100,536 140,536 180,536 220,536 260,536 300,536 340,536 380,536 420,540 460,536 500,536 540,536 580,528 620,536 660,536 700,536 740,536 780,536 820,536 860,536 900,536 940,536 980,536 1020,544 1060,544 1100,544 1140,544 1180,544 1220,544 1260,544 1300,544 1340,544 1380,544"
+       clip-path="url(#clipPath)"
+       stroke-width="4"
+       stroke="#FFFF00"
+       fill="none" />
+    <polyline
+       id="polyline4463"
+       points="100,704 140,792 180,792 220,800 260,800 300,800 340,800 380,800 420,804 460,800 500,800 540,800 580,792 620,800 660,800 700,800 740,804 780,804 820,804 860,812 900,812 940,712 980,712 1020,720 1060,720 1100,720 1140,720 1180,720 1220,720 1260,720 1300,720 1340,720 1380,720"
+       clip-path="url(#clipPath)"
+       stroke-width="4"
+       stroke="#FFFF00"
+       fill="none" />
+    <polyline
+       id="polyline4465"
+       points="100,952 140,1108 180,1128 220,1120 260,1172 300,1152 340,1152 380,1152 420,1156 460,1148 500,1148 540,1148 580,1140 620,1152 660,1152 700,1152 740,1156 780,1156 820,1156 860,1268 900,1268 940,976 980,976 1020,984 1060,980 1100,984 1140,984 1180,984 1220,984 1260,984 1300,984 1340,984 1380,984"
+       clip-path="url(#clipPath)"
+       stroke-width="4"
+       stroke="#FFFF00"
+       fill="none" />
+    <polyline
+       id="polyline4467"
+       points="100,852 140,1084 180,844 220,868 260,804 300,600 340,540 380,576 420,556 460,540 500,480 540,512 580,520 620,516 660,500 700,492 740,472 780,508 820,536 860,564 900,756 940,956 980,1044 1020,1028 1060,984 1100,724 1140,556 1180,596 1220,596 1260,564 1300,580 1340,480 1380,468"
+       clip-path="url(#clipPath)"
+       stroke-linecap="square"
+       stroke-width="6"
+       stroke="#8000FF"
+       fill="none" />
+    <circle
+       id="circle4469"
+       cy="852"
+       cx="100"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4471"
+       cy="1084"
+       cx="140"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4473"
+       cy="844"
+       cx="180"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4475"
+       cy="868"
+       cx="220"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4477"
+       cy="804"
+       cx="260"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4479"
+       cy="600"
+       cx="300"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4481"
+       cy="540"
+       cx="340"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4483"
+       cy="576"
+       cx="380"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4485"
+       cy="556"
+       cx="420"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4487"
+       cy="540"
+       cx="460"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4489"
+       cy="480"
+       cx="500"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4491"
+       cy="512"
+       cx="540"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4493"
+       cy="520"
+       cx="580"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4495"
+       cy="516"
+       cx="620"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4497"
+       cy="500"
+       cx="660"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4499"
+       cy="492"
+       cx="700"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4501"
+       cy="472"
+       cx="740"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4503"
+       cy="508"
+       cx="780"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4505"
+       cy="536"
+       cx="820"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4507"
+       cy="564"
+       cx="860"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4509"
+       cy="756"
+       cx="900"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4511"
+       cy="956"
+       cx="940"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4513"
+       cy="1044"
+       cx="980"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4515"
+       cy="1028"
+       cx="1020"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4517"
+       cy="984"
+       cx="1060"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4519"
+       cy="724"
+       cx="1100"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4521"
+       cy="556"
+       cx="1140"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4523"
+       cy="596"
+       cx="1180"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4525"
+       cy="596"
+       cx="1220"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4527"
+       cy="564"
+       cx="1260"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4529"
+       cy="580"
+       cx="1300"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4531"
+       cy="480"
+       cx="1340"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <circle
+       id="circle4533"
+       cy="468"
+       cx="1380"
+       opacity="0"
+       stroke-width="4"
+       stroke="#FF0080"
+       fill="#A060FF"
+       r="10" />
+    <text
+       id="text4535"
+       x="59"
+       y="170"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">20</text>
+    <text
+       id="text4537"
+       x="59"
+       y="250"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">40</text>
+    <text
+       id="text4539"
+       x="59"
+       y="330"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">60</text>
+    <text
+       id="text4541"
+       x="59"
+       y="410"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">80</text>
+    <text
+       id="text4543"
+       x="43"
+       y="490"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">100</text>
+    <text
+       id="text4545"
+       x="43"
+       y="570"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">120</text>
+    <text
+       id="text4547"
+       x="43"
+       y="650"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">140</text>
+    <text
+       id="text4549"
+       x="43"
+       y="730"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">160</text>
+    <text
+       id="text4551"
+       x="43"
+       y="810"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">180</text>
+    <text
+       id="text4553"
+       x="43"
+       y="890"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">200</text>
+    <text
+       id="text4555"
+       x="43"
+       y="970"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">220</text>
+    <text
+       id="text4557"
+       x="43"
+       y="1050"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">240</text>
+    <text
+       id="text4559"
+       x="43"
+       y="1130"
+       clip-path="url(#yAxisClipPath)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial">260</text>
+    <text
+       id="text4561"
+       y="105"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1983-84</text>
+    <text
+       id="text4563"
+       y="145"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1984-85</text>
+    <text
+       id="text4565"
+       y="185"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1985-86</text>
+    <text
+       id="text4567"
+       y="225"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1986-87</text>
+    <text
+       id="text4569"
+       y="265"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1987-88</text>
+    <text
+       id="text4571"
+       y="305"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1988-89</text>
+    <text
+       id="text4573"
+       y="345"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1989-90</text>
+    <text
+       id="text4575"
+       y="385"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1990-91</text>
+    <text
+       id="text4577"
+       y="425"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1991-92</text>
+    <text
+       id="text4579"
+       y="465"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1992-93</text>
+    <text
+       id="text4581"
+       y="505"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1993-94</text>
+    <text
+       id="text4583"
+       y="545"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1994-95</text>
+    <text
+       id="text4585"
+       y="585"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1995-96</text>
+    <text
+       id="text4587"
+       y="625"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1996-97</text>
+    <text
+       id="text4589"
+       y="665"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1997-98</text>
+    <text
+       id="text4591"
+       y="705"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1998-99</text>
+    <text
+       id="text4593"
+       y="745"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">1999-00</text>
+    <text
+       id="text4595"
+       y="785"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2000-01</text>
+    <text
+       id="text4597"
+       y="825"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2001-02</text>
+    <text
+       id="text4599"
+       y="865"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2002-03</text>
+    <text
+       id="text4601"
+       y="905"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2003-04</text>
+    <text
+       id="text4603"
+       y="945"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2004-05</text>
+    <text
+       id="text4605"
+       y="985"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2005-06</text>
+    <text
+       id="text4607"
+       y="1025"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2006-07</text>
+    <text
+       id="text4609"
+       y="1065"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2007-08</text>
+    <text
+       id="text4611"
+       y="1105"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2008-09</text>
+    <text
+       id="text4613"
+       y="1145"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2009-10</text>
+    <text
+       id="text4615"
+       y="1185"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2010-11</text>
+    <text
+       id="text4617"
+       y="1225"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2011-12</text>
+    <text
+       id="text4619"
+       y="1265"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2012-13</text>
+    <text
+       id="text4621"
+       y="1305"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2013-14</text>
+    <text
+       id="text4623"
+       y="1345"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2014-15</text>
+    <text
+       id="text4625"
+       y="1385"
+       clip-path="url(#xAxisClipPath)"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="font-size:28px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       x="-1240">2015-16</text>
+    <text
+       id="text4627"
+       x="292"
+       style="font-size:48px;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       y="58">Dover Athletic Overall League Positions</text>
+  </g>
 </svg>
